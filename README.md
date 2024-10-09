@@ -1,9 +1,7 @@
 Name: Ritik Singh Company: Acmegrade Pvt Ltd Domain: Machine Learning Duration: July 9, 2024 to September 9, 2024
 
-## Overview of cancer prediction prediction project :
-# Breast Cancer Prediction Project
+## Overview of cancer prediction project :
 
-## Overview
 This project aims to predict breast cancer diagnosis using machine learning techniques. The project employs various algorithms, including Support Vector Classification (SVC), Random Forest Classifier, and XGBoost, to analyze the dataset and classify tumors as benign or malignant.
 
 ## Features
